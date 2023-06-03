@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hongxt/Desktop/udpfile_/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -g -std=gnu++14 -o CMakeFiles/myFileSS.dir/myclient.cpp.o -c /home/hongxt/Desktop/udpfile_/myclient.cpp",
+  "file": "/home/hongxt/Desktop/udpfile_/myclient.cpp"
+},
+{
+  "directory": "/home/hongxt/Desktop/udpfile_/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -g -std=gnu++14 -o CMakeFiles/myFileRR.dir/myserver.cpp.o -c /home/hongxt/Desktop/udpfile_/myserver.cpp",
+  "file": "/home/hongxt/Desktop/udpfile_/myserver.cpp"
+}
+]
